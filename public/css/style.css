@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(23, 132, 123) , rgb(227, 234, 240));
+    
+}
+h1{
+    font-family:"Arvo", cursive;
+    font-size:2rem;
+}
+.box{
+  max-width: 400px;
+  border: 5px;
+  margin: 50px auto;
+  border-radius: 10px;
+  background-color:blueviolet;
+  box-shadow: 5px 5px 15px --5px rgb(0,0,0,0,3);
+
+}
+#heading{
+    text-align: center;
+}
+.container{
+    max-width: 700px;
+    /* background-color: aquamarine; */
+    background-image: linear-gradient(to right, rgb(23, 132, 123) , rgb(227, 234, 240));
+    border-radius: 15px;
+    max-height: 500px auto;
+    margin-left: 350px;
+}
+#checkbox{
+   
+}
+.item{
+    position: relative;
+    left: 100px; ;
+}
+.nobull{
+    list-style-type:none;
+    font-size: 2rem;
+}
+.submit,.writework{
+    border-radius: 10px;
+}
